@@ -2,7 +2,7 @@
 
 > Works developed in the courses of Design and Analysis of Experiment I and II taught by professors [Diogo Rossoni](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4427847A1) and [Vanderly Janeiro](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4799061H1) at DEs/UEM.
 
-## Multiple Comparison Tests: Bonferroni, Duncan and Dunnet
+## Multiple Comparisons Tests: Bonferroni, Duncan and Dunnet
 Joint work with my great friend and data scientist [Victor Hugo](https://www.linkedin.com/in/victor-hugo-nagahama/).
 
 We described the theoretical aspects of three tests used to multiple comparisons and applied them to analyse a real data set.
